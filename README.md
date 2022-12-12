@@ -8,3 +8,5 @@ Conteúdo de cada pasta:
 - Dataset (Dados utilizados);
 - InfoData (Informações sobre o conjunto de dados). 
 
+A técnica é baseada na teoria de que, se você comprar um determinado grupo de itens, provavelmente comprará outro grupo de itens
+
