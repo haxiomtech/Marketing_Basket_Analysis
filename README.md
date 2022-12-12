@@ -16,4 +16,4 @@ A análise da cesta de mercado ajuda os varejistas a descobrir esses outros iten
 
 O  volume  de  vendas  feitas  a  partir  de  cliques  de  usuários  nos  links  de call  to  action (“Clientes que compraram este produto também compraram esses produtos...”) da  Amazon  é uma prova do efeito e da importância da Análise de Cesta de Mercado.
 
-A técnica é baseada na teoria de que, se você comprar um determinado grupo de itens, provavelmente comprará outro grupo de itens
+A técnica é baseada na teoria de que, se você comprar um determinado grupo de itens, provavelmente comprará outro grupo de itens.
