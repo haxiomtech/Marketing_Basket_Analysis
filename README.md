@@ -8,5 +8,8 @@ Conteúdo de cada pasta:
 - Dataset (Dados utilizados);
 - InfoData (Informações sobre o conjunto de dados). 
 
-A técnica é baseada na teoria de que, se você comprar um determinado grupo de itens, provavelmente comprará outro grupo de itens
+# Definições
 
+A aplicação de Market Basket Analysis no varejo é baseada na noção de que “a maioria dos  clientes  faz  compras  por  impulso  ou  porque  há  afinidade  natural  entre  os  itens  que compram” e que há outros itens que um cliente provavelmente compraria ao comprar um item. Aanálise da cesta de mercado ajuda os varejistas a descobrir esses outros itens. Exemplo:Há uma chance muito alta de comprar um cabo HDMI se você acabou de comprar uma SmartTV, especialmente quando a sugestão de que um cabo HDMI complementa sua nova Smart TV.O  volume  de  vendas  feitas  a  partir  de  cliques  de  usuários  nos  links  de call  to  action(“Clientes que compraram este produto também compraram esses produtos...”)da  Amazon  é uma prova do efeito e da importância da Análise de Cesta de Mercado.
+
+A técnica é baseada na teoria de que, se você comprar um determinado grupo de itens, provavelmente comprará outro grupo de itens
